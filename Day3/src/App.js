@@ -11,6 +11,7 @@ import {
   Route,
   Link
 } from 'react-router-dom';
+//simple app that uses components, router, and tailwindcss
 function App() {
   return (
     <div className="App">
