@@ -1,0 +1,29 @@
+.canvas {
+  background-color: rgba(0,0,0);
+}
+.answer-container {
+  height: 150px;
+  font-size: 100px;
+  font-weight: 300;
+  text-align: right;
+  background-color: rgba(255,255,255, 0.9);
+  width: 100vw;
+  color: black;
+}
+.answer {
+  margin-right: 1rem;
+}
+.operations {
+  color: white;
+  width: 100vw;
+}
+.row {
+  font-size: 40px;
+  display: flex;
+  flex: auto;
+  justify-content: space-around;
+  width: 100vh;
+}
+.row div {
+  padding: 30px;
+}
